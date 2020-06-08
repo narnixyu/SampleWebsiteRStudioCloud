@@ -1,0 +1,21 @@
+---
+title: "Sample Website (RStudio Cloud)"
+author: "Xinran Yu (RStudio Cloud)"
+date: "Last updated on `r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    df_print: kable
+---
+
+<!--
+Comments in HTML are like this! 
+-->
+
+# SECTION NAME
+
+Write your blog post here.
+
+# 1 Creat a new project on RStudio Cloud
